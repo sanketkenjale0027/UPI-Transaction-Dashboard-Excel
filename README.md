@@ -54,6 +54,12 @@ The main objective of this project is to analyze large volumes of UPI transactio
 - Analyzing financial and transaction-related data.
 - Presenting complex data through meaningful visualizations.
 
----
+## 👨‍💻 Author
 
-Created as part of my Data Analytics learning journey.
+**Sanket Kenjale**
+
+B.Sc. IT Graduate | Data Analyst
+
+Skills: Power BI | SQL | Tableau | Python | Advanced Excel | Data Analysis
+
+Created as a Data Analytics project using Microsoft Excel.
