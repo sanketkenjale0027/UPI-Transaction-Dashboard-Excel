@@ -8,9 +8,11 @@ The dashboard transforms large-scale transaction data into meaningful insights t
 
 ## 📸 Dashboard Preview
 
-"UPI Transactions Dashboard" (UPI-Dashboard.png)
+## UPI Transaction Dashboard
 
-🛠️ Tools & Technologies Used
+![UPI Dashboard](./UPI%20Dashboard.png)
+
+## 🛠️ Tools & Technologies Used
 
 - Microsoft Excel
 - Pivot Tables
