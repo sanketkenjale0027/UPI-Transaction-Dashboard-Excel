@@ -63,3 +63,5 @@ B.Sc. IT Graduate | Data Analyst
 Skills: Power BI | SQL | Tableau | Python | Advanced Excel | Data Analysis
 
 Created as a Data Analytics project using Microsoft Excel.
+
+If you find this project interesting, feel free to explore the repository!
